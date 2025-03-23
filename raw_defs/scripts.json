@@ -191,10 +191,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_2Pi",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -234,10 +230,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Pi2",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -355,10 +347,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Rad2Deg",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -424,10 +412,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SCANDIR_SUBDIRS",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -441,10 +425,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SCANDIR_FILES",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -601,10 +581,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-nullGuid",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -644,10 +620,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_StringTemp1",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -840,10 +812,6 @@
         "g_Pi": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Pi",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -1120,10 +1088,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-_VERSION",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -1787,10 +1751,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Deg2Rad",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -2747,10 +2707,6 @@
           "type": {
             "many": [
               {
-                "name": "global-python.eval",
-                "kind": "AliasType"
-              },
-              {
                 "name": "userdata",
                 "kind": "LuaType"
               }
@@ -2792,10 +2748,6 @@
               {
                 "name": "userdata",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-python.builtins",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -2832,10 +2784,6 @@
         "none": {
           "type": {
             "many": [
-              {
-                "name": "global-python.none",
-                "kind": "AliasType"
-              },
               {
                 "name": "nil",
                 "kind": "LuaType"
@@ -2981,10 +2929,6 @@
         "sObstructionCalcSwitchName": {
           "type": {
             "many": [
-              {
-                "name": "global-AudioUtils.sObstructionCalcSwitchName",
-                "kind": "AliasType"
-              },
               {
                 "name": "string",
                 "kind": "LuaType"
@@ -4513,10 +4457,6 @@
               {
                 "name": "userdata",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Script.ReloadScript",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -4562,10 +4502,6 @@
           "type": {
             "many": [
               {
-                "name": "global-g_SignalData_point2.y",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -4579,10 +4515,6 @@
           "type": {
             "many": [
               {
-                "name": "global-g_SignalData_point2.x",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -4595,10 +4527,6 @@
         "z": {
           "type": {
             "many": [
-              {
-                "name": "global-g_SignalData_point2.z",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -5159,10 +5087,6 @@
           "type": {
             "many": [
               {
-                "name": "global-math.huge",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -5386,10 +5310,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-math.pi",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -6955,10 +6875,6 @@
           "type": {
             "many": [
               {
-                "name": "global-Barbershop.chosenHairGUID",
-                "kind": "AliasType"
-              },
-              {
                 "name": "string",
                 "kind": "LuaType"
               }
@@ -7000,10 +6916,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Barbershop.chosenBeardGUID",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -7205,10 +7117,6 @@
               {
                 "name": "userdata",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-io.stderr",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -7222,10 +7130,6 @@
               {
                 "name": "userdata",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-io.stdin",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -7252,10 +7156,6 @@
               {
                 "name": "userdata",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-io.stdout",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -7422,10 +7322,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-json._version",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -7815,10 +7711,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_SignalData_point.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -7829,10 +7721,6 @@
         "x": {
           "type": {
             "many": [
-              {
-                "name": "global-g_SignalData_point.x",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -7846,10 +7734,6 @@
         "z": {
           "type": {
             "many": [
-              {
-                "name": "global-g_SignalData_point.z",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -7943,10 +7827,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-package.cpath",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -7960,10 +7840,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-package.config",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -7977,10 +7853,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-package.path",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -8828,10 +8700,6 @@
           "type": {
             "many": [
               {
-                "name": "global-CombatDebug.EnemyWeapon",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -8873,10 +8741,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-CombatDebug.IDPlayer",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -8900,10 +8764,6 @@
         "PlayerProfile": {
           "type": {
             "many": [
-              {
-                "name": "global-CombatDebug.PlayerProfile",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -8972,10 +8832,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-CombatDebug.PlayerArmor",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -9054,10 +8910,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-CombatDebug.PlayerWeapon",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -9149,10 +9001,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-CombatDebug.EnemyProfile",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -9192,10 +9040,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-CombatDebug.IDEnemy",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -9248,10 +9092,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-CombatDebug.EnemyArmor",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -9594,10 +9434,6 @@
               {
                 "name": "userdata",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-System.ScanDirectory",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -9827,10 +9663,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-DialogUtils.dialogParticipant",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -10607,10 +10439,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_SignalData.iValue2",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -10637,10 +10465,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_SignalData.fValue",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -10654,10 +10478,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_SignalData.ObjectName",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -10668,10 +10488,6 @@
         "iValue": {
           "type": {
             "many": [
-              {
-                "name": "global-g_SignalData.iValue",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -13134,10 +12950,6 @@
           "type": {
             "many": [
               {
-                "name": "global-ItemUtils.itemIDs.cizeks_dagger",
-                "kind": "AliasType"
-              },
-              {
                 "name": "string",
                 "kind": "LuaType"
               }
@@ -13153,10 +12965,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.dlc4_matej_die",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -13170,10 +12978,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.dog_skin",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -13187,10 +12991,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.monasteryKey",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -13204,10 +13004,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.newhomes_prib_report",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -13221,10 +13017,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.newhomes_rat_report",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -13235,10 +13027,6 @@
         "berans_chalice": {
           "type": {
             "many": [
-              {
-                "name": "global-ItemUtils.itemIDs.berans_chalice",
-                "kind": "AliasType"
-              },
               {
                 "name": "string",
                 "kind": "LuaType"
@@ -13255,10 +13043,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.boar_tooth",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -13269,10 +13053,6 @@
         "raven_feather": {
           "type": {
             "many": [
-              {
-                "name": "global-ItemUtils.itemIDs.raven_feather",
-                "kind": "AliasType"
-              },
               {
                 "name": "string",
                 "kind": "LuaType"
@@ -13289,10 +13069,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.necronomicon_treasure",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -13306,10 +13082,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.black_feather",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -13323,10 +13095,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.wolf_teeth",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -13340,10 +13108,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.bloodSack",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -13357,10 +13121,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.lockpick",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -13374,10 +13134,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-ItemUtils.itemIDs.money",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16073,10 +15829,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.defaultValues.dealsWithStolenItems",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16090,10 +15842,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.defaultValues.lunchInPub",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16107,10 +15855,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.defaultValues.crimePunishmentMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16124,10 +15868,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.defaultValues.greetMeWithWave",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16141,10 +15881,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.defaultValues.diceMinimumBet",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16158,10 +15894,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.defaultValues.isCuman",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16172,10 +15904,6 @@
         "neverAcceptsSurrender": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.defaultValues.neverAcceptsSurrender",
-                "kind": "AliasType"
-              },
               {
                 "name": "boolean",
                 "kind": "LuaType"
@@ -16192,10 +15920,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.defaultValues.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16209,10 +15933,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.defaultValues.suppressWatchCorpse",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16226,10 +15946,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.defaultValues.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16243,10 +15959,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.defaultValues.wealthyCustomer",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16257,10 +15969,6 @@
         "diceMaximumBet": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.defaultValues.diceMaximumBet",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -16931,10 +16639,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.craftsman.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16948,10 +16652,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.craftsman.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -16978,10 +16678,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.butcher.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -16997,10 +16693,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.butcher.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17029,10 +16721,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.beggar.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17058,10 +16746,6 @@
         "persuadeToTalkWithLowReputationPriceMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.refugee.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -17093,10 +16777,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.bailiff.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17107,10 +16787,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.bailiff.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -17127,10 +16803,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.bailiff.wealthyCustomer",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17144,10 +16816,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.bailiff.crimePunishmentMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17176,10 +16844,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.armorer.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17190,10 +16854,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.armorer.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -17210,10 +16870,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.armorer.wealthyCustomer",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17227,10 +16883,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.armorer.crimePunishmentMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17257,10 +16909,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.herbalist.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -17273,10 +16921,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.herbalist.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -17306,10 +16950,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.weaponsmith.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -17322,10 +16962,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.weaponsmith.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -17342,10 +16978,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.weaponsmith.wealthyCustomer",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17356,10 +16988,6 @@
         "crimePunishmentMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.weaponsmith.crimePunishmentMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -17391,10 +17019,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.villager.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17405,10 +17029,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.villager.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -17440,10 +17060,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.fake_soldier.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17457,10 +17073,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.fake_soldier.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17487,10 +17099,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.innkeeper.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -17503,10 +17111,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.innkeeper.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -17538,10 +17142,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.tanner.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17555,10 +17155,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.tanner.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17587,10 +17183,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.fightClubFighter.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17619,10 +17211,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.shootmaster.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17636,10 +17224,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.shootmaster.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17668,10 +17252,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.priest.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17685,10 +17265,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.priest.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17699,10 +17275,6 @@
         "crimePunishmentMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.priest.crimePunishmentMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -17734,10 +17306,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.security.neverAcceptsSurrender",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17748,10 +17316,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.security.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -17768,10 +17332,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.security.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17798,10 +17358,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.cuman.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -17817,10 +17373,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.cuman.isCuman",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17849,10 +17401,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.merchant.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17866,10 +17414,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.merchant.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17883,10 +17427,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.merchant.wealthyCustomer",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17900,10 +17440,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.merchant.crimePunishmentMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17929,10 +17465,6 @@
         "persuadeToTalkWithLowReputationPriceMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.wanderer.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -17964,10 +17496,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.townsman.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -17981,10 +17509,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.townsman.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18011,10 +17535,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.watchman.dirtMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -18030,10 +17550,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.watchman.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18044,10 +17560,6 @@
         "crimePunishmentMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.watchman.crimePunishmentMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18077,10 +17589,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.soldier.dirtMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -18093,10 +17601,6 @@
         "persuadeToTalkWithLowReputationPriceMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.soldier.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18113,10 +17617,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.soldier.crimePunishmentMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18145,10 +17645,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.mercenary.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18175,10 +17671,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.bartender.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -18191,10 +17683,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.bartender.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18226,10 +17714,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.mason.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18243,10 +17727,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.mason.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18275,10 +17755,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.ruffian.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18307,10 +17783,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.shoemaker.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18324,10 +17796,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.shoemaker.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18356,10 +17824,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.tailor.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18370,10 +17834,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.tailor.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18403,10 +17863,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.blacksmith.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -18419,10 +17875,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.blacksmith.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18439,10 +17891,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.blacksmith.wealthyCustomer",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18456,10 +17904,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.blacksmith.crimePunishmentMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18488,10 +17932,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.blacksmithApprentice.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18502,10 +17942,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.blacksmithApprentice.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18534,10 +17970,6 @@
         "persuadeToTalkWithLowReputationPriceMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.miner.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18569,10 +18001,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.lumberjack.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18601,10 +18029,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.officer.crimePunishmentMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18615,10 +18039,6 @@
         "persuadeToTalkWithLowReputationPriceMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.officer.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18635,10 +18055,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.officer.lunchInPub",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18652,10 +18068,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.officer.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18669,10 +18081,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.officer.wealthyCustomer",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18686,10 +18094,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.officer.suppressWatchCorpse",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18716,10 +18120,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.bathhouseMaid.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -18732,10 +18132,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.bathhouseMaid.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18764,10 +18160,6 @@
         "persuadeToTalkWithLowReputationPriceMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.quarryman.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18799,10 +18191,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.nobleman.greetMeWithWave",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18816,10 +18204,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.nobleman.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18833,10 +18217,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.nobleman.lunchInPub",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18847,10 +18227,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.nobleman.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18864,10 +18240,6 @@
         "wealthyCustomer": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.nobleman.wealthyCustomer",
-                "kind": "AliasType"
-              },
               {
                 "name": "boolean",
                 "kind": "LuaType"
@@ -18884,10 +18256,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.nobleman.crimePunishmentMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18916,10 +18284,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.poacher.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -18946,10 +18310,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.bathhouseAbbess.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -18962,10 +18322,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.bathhouseAbbess.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -18997,10 +18353,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.scribe.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19014,10 +18366,6 @@
               {
                 "name": "boolean",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.scribe.wealthyCustomer",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19031,10 +18379,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.scribe.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19060,10 +18404,6 @@
         "neverAcceptsSurrender": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.renegade.neverAcceptsSurrender",
-                "kind": "AliasType"
-              },
               {
                 "name": "boolean",
                 "kind": "LuaType"
@@ -19093,10 +18433,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.monk.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -19112,10 +18448,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.monk.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19144,10 +18476,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.circator.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19161,10 +18489,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.circator.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19178,10 +18502,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.circator.crimePunishmentMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19208,10 +18528,6 @@
           "type": {
             "many": [
               {
-                "name": "global-SocialClass.data.fortuneTeller.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -19224,10 +18540,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.fortuneTeller.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -19259,10 +18571,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.miller.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19273,10 +18581,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.miller.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -19308,10 +18612,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.apothecary.dirtMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19322,10 +18622,6 @@
         "wealthyCustomer": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.apothecary.wealthyCustomer",
-                "kind": "AliasType"
-              },
               {
                 "name": "boolean",
                 "kind": "LuaType"
@@ -19342,10 +18638,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.apothecary.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19374,10 +18666,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.baker.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19388,10 +18676,6 @@
         "dirtMultiplier": {
           "type": {
             "many": [
-              {
-                "name": "global-SocialClass.data.baker.dirtMultiplier",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -19423,10 +18707,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.collier.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19455,10 +18735,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-SocialClass.data.bandit.persuadeToTalkWithLowReputationPriceMultiplier",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19691,10 +18967,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.aus_shootmaster.shootingRange",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19736,10 +19008,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.tal_shootmaster.shootingRange",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19778,10 +19046,6 @@
         "shootingRange": {
           "type": {
             "many": [
-              {
-                "name": "global-Archery.shootmaster.rat_shootmaster.shootingRange",
-                "kind": "AliasType"
-              },
               {
                 "name": "string",
                 "kind": "LuaType"
@@ -19826,10 +19090,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.prib_shootmaster.shootingRange",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19871,10 +19131,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.q_theresa_skao_shootmaster.shootingRange",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -19955,10 +19211,6 @@
           "type": {
             "many": [
               {
-                "name": "global-Archery.shootmaster.aus_shootmaster.difficulty.expert.bet",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -19974,10 +19226,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.aus_shootmaster.difficulty.expert.arrows",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20006,10 +19254,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.aus_shootmaster.difficulty.advanced.bet",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20020,10 +19264,6 @@
         "arrows": {
           "type": {
             "many": [
-              {
-                "name": "global-Archery.shootmaster.aus_shootmaster.difficulty.advanced.arrows",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -20053,10 +19293,6 @@
           "type": {
             "many": [
               {
-                "name": "global-Archery.shootmaster.aus_shootmaster.difficulty.beginer.bet",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -20069,10 +19305,6 @@
         "arrows": {
           "type": {
             "many": [
-              {
-                "name": "global-Archery.shootmaster.aus_shootmaster.difficulty.beginer.arrows",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -20158,10 +19390,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.tal_shootmaster.difficulty.expert.bet",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20172,10 +19400,6 @@
         "arrows": {
           "type": {
             "many": [
-              {
-                "name": "global-Archery.shootmaster.tal_shootmaster.difficulty.expert.arrows",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -20205,10 +19429,6 @@
           "type": {
             "many": [
               {
-                "name": "global-Archery.shootmaster.tal_shootmaster.difficulty.advanced.bet",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -20224,10 +19444,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.tal_shootmaster.difficulty.advanced.arrows",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20254,10 +19470,6 @@
           "type": {
             "many": [
               {
-                "name": "global-Archery.shootmaster.tal_shootmaster.difficulty.beginer.bet",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -20270,10 +19482,6 @@
         "arrows": {
           "type": {
             "many": [
-              {
-                "name": "global-Archery.shootmaster.tal_shootmaster.difficulty.beginer.arrows",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -20357,10 +19565,6 @@
           "type": {
             "many": [
               {
-                "name": "global-Archery.shootmaster.rat_shootmaster.difficulty.expert.bet",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -20373,10 +19577,6 @@
         "arrows": {
           "type": {
             "many": [
-              {
-                "name": "global-Archery.shootmaster.rat_shootmaster.difficulty.expert.arrows",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -20406,10 +19606,6 @@
           "type": {
             "many": [
               {
-                "name": "global-Archery.shootmaster.rat_shootmaster.difficulty.advanced.bet",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -20422,10 +19618,6 @@
         "arrows": {
           "type": {
             "many": [
-              {
-                "name": "global-Archery.shootmaster.rat_shootmaster.difficulty.advanced.arrows",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -20455,10 +19647,6 @@
           "type": {
             "many": [
               {
-                "name": "global-Archery.shootmaster.rat_shootmaster.difficulty.beginer.bet",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -20474,10 +19662,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.rat_shootmaster.difficulty.beginer.arrows",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20560,10 +19744,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.prib_shootmaster.difficulty.expert.bet",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20577,10 +19757,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.prib_shootmaster.difficulty.expert.arrows",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20607,10 +19783,6 @@
           "type": {
             "many": [
               {
-                "name": "global-Archery.shootmaster.prib_shootmaster.difficulty.advanced.bet",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -20623,10 +19795,6 @@
         "arrows": {
           "type": {
             "many": [
-              {
-                "name": "global-Archery.shootmaster.prib_shootmaster.difficulty.advanced.arrows",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -20658,10 +19826,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.prib_shootmaster.difficulty.beginer.bet",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20675,10 +19839,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.prib_shootmaster.difficulty.beginer.arrows",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20761,10 +19921,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.q_theresa_skao_shootmaster.difficulty.expert.bet",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20775,10 +19931,6 @@
         "arrows": {
           "type": {
             "many": [
-              {
-                "name": "global-Archery.shootmaster.q_theresa_skao_shootmaster.difficulty.expert.arrows",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -20810,10 +19962,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.q_theresa_skao_shootmaster.difficulty.advanced.bet",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20824,10 +19972,6 @@
         "arrows": {
           "type": {
             "many": [
-              {
-                "name": "global-Archery.shootmaster.q_theresa_skao_shootmaster.difficulty.advanced.arrows",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -20859,10 +20003,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-Archery.shootmaster.q_theresa_skao_shootmaster.difficulty.beginer.bet",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -20873,10 +20013,6 @@
         "arrows": {
           "type": {
             "many": [
-              {
-                "name": "global-Archery.shootmaster.q_theresa_skao_shootmaster.difficulty.beginer.arrows",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -20906,10 +20042,6 @@
           "type": {
             "many": [
               {
-                "name": "global-NegotiationReason.Trainer.index",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -20937,10 +20069,6 @@
         "index": {
           "type": {
             "many": [
-              {
-                "name": "global-NegotiationReason.Bathhouse.index",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -20972,10 +20100,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-NegotiationReason.Bribe.index",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -21004,10 +20128,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-NegotiationReason.Haggle.index",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -21033,10 +20153,6 @@
         "index": {
           "type": {
             "many": [
-              {
-                "name": "global-NegotiationReason.Sleepover.index",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -22585,10 +21701,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-NegotiationReactionKind.Refuse.index",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22617,10 +21729,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-NegotiationReactionKind.Counter.index",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22646,10 +21754,6 @@
         "index": {
           "type": {
             "many": [
-              {
-                "name": "global-NegotiationReactionKind.Mock.index",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -22681,10 +21785,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-NegotiationReactionKind.Accept.index",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22711,10 +21811,6 @@
           "type": {
             "many": [
               {
-                "name": "global-g_Vectors.temp_v3.y",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -22730,10 +21826,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.temp_v3.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22747,10 +21839,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.temp_v3.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22779,10 +21867,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.tempColor.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22793,10 +21877,6 @@
         "x": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.tempColor.x",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -22813,10 +21893,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.tempColor.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22845,10 +21921,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.vecMathTemp1.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22859,10 +21931,6 @@
         "x": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.vecMathTemp1.x",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -22879,10 +21947,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.vecMathTemp1.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22911,10 +21975,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.temp_v2.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22925,10 +21985,6 @@
         "x": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.temp_v2.x",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -22945,10 +22001,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.temp_v2.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22977,10 +22029,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v011.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -22994,10 +22042,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v011.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23011,10 +22055,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v011.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23043,10 +22083,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v111.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23060,10 +22096,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v111.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23077,10 +22109,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v111.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23109,10 +22137,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v000.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23126,10 +22150,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v000.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23143,10 +22163,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v000.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23175,10 +22191,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v100.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23192,10 +22204,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v100.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23209,10 +22217,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v100.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23241,10 +22245,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.vecMathTemp2.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23258,10 +22258,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.vecMathTemp2.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23275,10 +22271,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.vecMathTemp2.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23305,10 +22297,6 @@
           "type": {
             "many": [
               {
-                "name": "global-g_Vectors.temp_v6.y",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -23324,10 +22312,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.temp_v6.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23338,10 +22322,6 @@
         "z": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.temp_v6.z",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -23371,10 +22351,6 @@
           "type": {
             "many": [
               {
-                "name": "global-g_Vectors.temp_v1.y",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -23390,10 +22366,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.temp_v1.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23404,10 +22376,6 @@
         "z": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.temp_v1.z",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -23437,10 +22405,6 @@
           "type": {
             "many": [
               {
-                "name": "global-g_Vectors.temp_v4.y",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -23456,10 +22420,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.temp_v4.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23470,10 +22430,6 @@
         "z": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.temp_v4.z",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -23503,10 +22459,6 @@
           "type": {
             "many": [
               {
-                "name": "global-g_Vectors.v110.y",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -23522,10 +22474,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v110.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23536,10 +22484,6 @@
         "z": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.v110.z",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -23571,10 +22515,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v010.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23588,10 +22528,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v010.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23605,10 +22541,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v010.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23637,10 +22569,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v101.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23651,10 +22579,6 @@
         "x": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.v101.x",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -23668,10 +22592,6 @@
         "z": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.v101.z",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -23701,10 +22621,6 @@
           "type": {
             "many": [
               {
-                "name": "global-g_Vectors.v001.y",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -23717,10 +22633,6 @@
         "x": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.v001.x",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -23737,10 +22649,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.v001.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23769,10 +22677,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.temp_v5.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23786,10 +22690,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.temp_v5.x",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23803,10 +22703,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.temp_v5.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23835,10 +22731,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.temp.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23849,10 +22741,6 @@
         "x": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.temp.x",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -23866,10 +22754,6 @@
         "z": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.temp.z",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -23899,10 +22783,6 @@
           "type": {
             "many": [
               {
-                "name": "global-g_Vectors.down.y",
-                "kind": "AliasType"
-              },
-              {
                 "name": "number",
                 "kind": "LuaType"
               }
@@ -23915,10 +22795,6 @@
         "x": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.down.x",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -23935,10 +22811,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.down.z",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23967,10 +22839,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-g_Vectors.up.y",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -23981,10 +22849,6 @@
         "x": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.up.x",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -23998,10 +22862,6 @@
         "z": {
           "type": {
             "many": [
-              {
-                "name": "global-g_Vectors.up.z",
-                "kind": "AliasType"
-              },
               {
                 "name": "number",
                 "kind": "LuaType"
@@ -26391,10 +25251,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-twister.__presets__.recognition:instant.RecognitionTimePCoef",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -26408,10 +25264,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-twister.__presets__.recognition:instant.RecognitionTimeKNegativeCoef",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -26425,10 +25277,6 @@
               {
                 "name": "number",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-twister.__presets__.recognition:instant.RecognitionTimeKPositiveCoef",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -27073,10 +25921,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-PathfindDebugUtils.Presets.SoulSharedGUID",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -27090,10 +25934,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-PathfindDebugUtils.Presets.SoulName",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
@@ -27358,10 +26198,6 @@
               {
                 "name": "string",
                 "kind": "LuaType"
-              },
-              {
-                "name": "global-PathfindDebugUtils.Data.Speed",
-                "kind": "AliasType"
               }
             ],
             "kind": "PolyType"
